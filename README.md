@@ -1,5 +1,9 @@
 # Compute Share Pilot
 
+**Project page:** https://andresblitz.com/projects/compute-share-pilot/
+
+**Author:** [Andrés Blitz](https://andresblitz.com/) · [@andresblitz](https://x.com/andresblitz)
+
 This is a tiny proof of concept for your idea: let trusted friends offer spare computer power over the internet so one machine can run AI work on another machine.
 
 The pilot is intentionally opinionated:
